@@ -1,2 +1,2 @@
-# Mamdy-Token
+# Mandy-Token
 build website Mandy Token 
